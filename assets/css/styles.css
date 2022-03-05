@@ -6,6 +6,17 @@
   src: url('../font/Poppins-Regular.ttf') format('truetype');
 } */
 
+/*=============== FIXING GITHUB PAGES ===============*/
+@import
+
+    "base",
+
+    "layout",
+
+    "syntax-highlighting",
+
+    "bootstrap";
+
 /*=============== VARIABLES CSS ===============*/
 :root {
   --header-height: 3.5rem;
